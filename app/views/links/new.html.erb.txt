@@ -1,0 +1,29 @@
+<head>
+<style>
+a:link {color:#FF0000;}      
+a:visited {color:#00FF00;}  
+a:hover {color:#FF00FF;}  
+a:active {color:#0000FF;}  
+</style>
+</head>
+<h1>LEARN DYNAMIC PROGRAMMING</h1>
+<ul>
+    INTRODUCTION
+	<br>
+	<li><%= link_to "BASIC STRUCTURE-PART1" , "http://www.geeksforgeeks.org/dynamic-programming-set-1/" %></li>
+	<li><%= link_to "BASIC STRUCTURE-PART2" , "http://www.geeksforgeeks.org/dynamic-programming-set-2-optimal-substructure-property/" %></li>
+	<li><%= link_to "A FEW EXAMPLES" , "https://community.topcoder.com/tc?module=Static&d1=features&d2=040104" %></li>	
+	<li><%= link_to "SUMMARY" , "http://www.topcoder.com/tc?d1=tutorials&d2=dynProg&module=Static" %></li>	
+</ul>
+<ul>
+	PROBLEM SET-1
+	<br>
+	<li><%= link_to "PROBLEM-1" , "http://www.geeksforgeeks.org/dynamic-programming-set-3-longest-increasing-subsequence/" %></li>
+	<li><%= link_to "PROBLEM-1 TUTORIAL" , "http://www.youtube.com/watch?v=U-xOVWlcgmM" %></li>
+	<li><%= link_to "A LITTLE MORE DISCUSSION" , "http://stackoverflow.com/questions/2631726/how-to-determine-the-longest-increasing-subsequence-using-dynamic-programming" %></li>
+</ul>
+<ul>
+	PROBLEM SET-2
+	<br>
+	<li></li>
+</ul>	
