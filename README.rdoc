@@ -1,4 +1,4 @@
 == README
-type tht url to acces the web page
+type this in url to acces the web page
 	localhost:3000/links/new
 	
